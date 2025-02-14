@@ -17,7 +17,9 @@ inquirer
     let bDay = moment(date.join("-", "YYYY-MM-DD"));
     let today = moment();
     let differ = moment.duration(today.diff(bDay));
-    console.log(`${differ.years()} ${differ.months()} ${differ.days()}`);
+    console.log(
+      `--------> ${differ.years()} years, ${differ.months()} months and ${differ.days()} days passed since You were born!!!`
+    );
   })
   .catch((err) => {
     console.log(err);
