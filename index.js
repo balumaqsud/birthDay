@@ -4,6 +4,8 @@ import inquirer from "inquirer";
 // let today = moment([2025, 2, 13]);
 // let birthDate = moment([2000, 7, 25]);
 
+/// YYYY MM DD! -----> 2000 07 25
+
 inquirer
   .prompt([
     {

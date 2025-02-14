@@ -1,7 +1,8 @@
 # birthDay
 
 How many YEARS MONTHS DAYS PASSED since you were born?
-Enter your birth date in format YYYY MM DD!
+Enter your birth date in format YYYY MM DD! -----> 2000 07 25
+wihout , but just space between numbers!
 
 ## Installation
 
